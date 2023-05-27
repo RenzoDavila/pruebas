@@ -1,0 +1,1 @@
+La prueba consiste en asegurarce de que los signos sean similares a "[]" o "[()]{}" que cierre correctamente

@@ -1,0 +1,6 @@
+Un analista de datos se unió recientemente a HackerRank como pasante. Como tarea inicial, se proporciona al pasante datos de n días. Luego, se realizan k actualizaciones sobre los datos, donde cada actualización es de la forma [l, r]. Esto indica que se niega el subarreglo de datos que comienza en el índice l y termina en el índice r. Por ejemplo, si datos = [1, 2, 3, 4] y las actualizaciones son [2, 4], entonces los datos se convierten en datos = [1, -2, -3, -4]. Dados los datos iniciales y k actualizaciones, 
+
+indexación basada en 1.
+
+
+Ejemplo Considere n = 4, datos = [1, -4, -5, 2], k = 2 y actualizaciones = [[2, 4], [1, 2]]. Después de la primera actualización, los datos se convierten en datos = [1, 4, 5, -2]. Después de la segunda actualización, los datos se convierten en datos = [-1, -4, 5, -2]. El dato final es [-1, -4, 5, -2].

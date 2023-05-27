@@ -1,0 +1,8 @@
+Dado un número n, para cada entero i en el rango de 1 a n inclusive, imprima un valor por línea de la siguiente manera: 
+- Si i es un múltiplo de 3 y 5, imprima FizzBuzz. 
+- Si i es un múltiplo de 3 (pero no de 5), imprima Fizz. 
+- Si i es múltiplo de 5 (pero no de 3), imprime Buzz. 
+- Si i no es un múltiplo de 3 o 5, imprima el valor de i.
+
+Función descriptiva Complete la función fizzBuzz en el editor a continuación. fizzBuzz tiene los siguientes parámetros: int n: límite superior de valores a probar (inclusive) Devoluciones: NINGUNA Impresiones: La función debe imprimir la respuesta adecuada para cada valor i en el conjunto {1, 2, ... n} en orden ascendente, cada uno en una línea separada
+
